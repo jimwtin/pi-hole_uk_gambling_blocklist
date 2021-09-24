@@ -1,4 +1,4 @@
-# pi-hole_uk_gambling_blocklist
+# PiHole UK Gambling blocklist
 
 I am building a list of all UK gambling sites for pihole.
 
