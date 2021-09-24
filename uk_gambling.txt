@@ -2,3 +2,4 @@
 0.0.0.0	virgingames.com
 0.0.0.0	888casino.com
 0.0.0.0	jackpotjoy.com
+0.0.0.0 uk.jackpot.com
